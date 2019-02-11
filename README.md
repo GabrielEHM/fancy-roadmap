@@ -1,2 +1,3 @@
 # fancy-roadmap
-Web application to create customized roadmaps.
+
+Web application for customized roadmaps creation.
